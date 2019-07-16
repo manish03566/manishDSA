@@ -35,7 +35,6 @@ public class ReverseStackRecursive {
 		}
 		
 	}
-
 	private static void insertInStack(int temp) {
 		if(stack.isEmpty()){
 			stack.push(temp);
